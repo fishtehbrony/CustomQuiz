@@ -1,0 +1,4 @@
+Here's a generalised version of a flash card quiz I made in Computer Science. Somewhere near the bottom of Quiz.py, there's a directory you need to change according to your needs. It's currently Z:/Documents/Quizzes.
+Change that directory to the same thing in quiz_config.py, and you're good to go. Make a quiz in quiz_config.
+NOTE: Feel free to drop out of the quiz_conig, AS LONG AS YOU'RE NOT BEING ASKED TO WRITE AN ANSWER. This'll cause bugs in the quiz.
+Enter the name of the quiz you plan to take upon starting Quiz.py, and you're good to go!
