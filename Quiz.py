@@ -176,5 +176,4 @@ points = []
 while variabool < absolution + 2:
     points.append(0)
     variabool = variabool + 1
-print(defs)
 Mainmenu()                                         #This starts the code as a whole, as the chunks above only define what needs to happen.
