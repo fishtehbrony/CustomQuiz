@@ -139,7 +139,7 @@ def Quiz():                                                                     
                 Check()
 
 def Check():                                                                                                                                #
-    ans = choiceorder                                                                                                                   #Allows the user to input an answer
+    ans = int(input("Choose an answer: "))                                                                                                                   #Allows the user to input an answer
     if ans == choiceorder:                                                                                                           #If the answer the user enters corresponds to the location of the correct answer in the order of the list...
             print("Correct!")                                                                                                           #...show them that they got it right.
             global points
